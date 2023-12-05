@@ -1,0 +1,15 @@
+*{
+    font-style: normal;
+    font-family: 'Monospace';
+    color: black;
+    /* background-color:lightgray; */
+}
+/* img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } */
+  li {
+    list-style-type: none;
+  }
